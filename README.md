@@ -1,39 +1,35 @@
-# voc-template
-Template repository for all future Volition of Code projects/efforts.
-
-# \<PROJECT NAME\>
+# GROFF Plugin
 ### Table of Contents
 
 - About
+- Example Usage
 - Purpose
 - Usage
 - License
 
-
 ## About
 
-This is where you describe what the project/repository is about.  Explain its conception, if necessary.
+In many modern day IDEs there exist a plethora of available plugins for a wide variety of purposes; however, a commonly utilized utility in the realm of Linux has no appropriate plugin: [_GROFF_](https://www.gnu.org/software/groff/groff.html).  _GROFF_ is occasionally used for formal publications and general purpose typesetting system.  Its largest usage is in the macro package _man_.  All _man_ pages use GROFF as the underlying typesetting system producing the familar output in the terminal window.  Documentation is important and writing _man_ pages is helpful for general purpose program usage/troubleshooting.
 
+## Example Usage
+
+\<TO BE FILLED IN\>
 
 ## Purpose
 
-What is the functionality of the repository?  To what end does it serve?  Due to the increase in FOSS, many projects arguably need a purpose to exist.
-
+As noted in **About**, few plugins exist to support _GROFF_ syntax highlighting and autocompletion.  This is not a revolutionary idea nor is it bringing about world peace; however, this could introduce those unfamilar with _GROFF_ or _man_ page writing with an easier starting point.
 
 ## Usage
 
-How is this to be used?
+Simply install the plugin in the respective IDE of choice and begin editing _GROFF_ associated files.
 
+## Authors
 
-### Installation
+See AUTHORS for those in [Volition of Code](https://github.com/Volition-Of-Code/) that authored the plugins.
 
-How does one install this repository, if applicable?
+### Contributors
 
-
-### Running
-
-Are there special procedures for running this repository, if applicable?
-
+See CONTRIBUTORS for those that directly contributed to the continued development of 
 
 ## License
 
